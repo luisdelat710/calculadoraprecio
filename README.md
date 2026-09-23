@@ -2,7 +2,7 @@
 
 **Business Analysis · Pricing Rules · Retail Operations · Validation · AI-Assisted Development**
 
-[Open the interactive demo](https://luisdelat710.github.io/calculadoraprecio/)
+[Open the interactive demo](https://luisdelat710.github.io/demand-capture-operations-case-study/pricing/)
 
 ## Business problem
 
